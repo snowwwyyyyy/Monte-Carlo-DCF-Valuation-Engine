@@ -346,7 +346,7 @@ for i in range(len(wacc_values)):
 plt.tight_layout()
 plt.show()
 
-debt = 300.0
+
 cash = 100.0
 shares_outstanding = 50.0
 market_price = 38.0
